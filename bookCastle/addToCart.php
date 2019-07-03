@@ -6,5 +6,6 @@
 
 	$output=ob_get_clean();
 
+asdfasdfasdf
 	include 'templates/layout.html.php';
  ?>
